@@ -1,0 +1,4 @@
+[deps]
+Cthulhu = "f68482b8-f384-11e8-15f7-abe071a5a75f"
+StaticCompiler = "81625895-6c0f-48fc-b932-11a18313743c"
+StaticTools = "86c06d3c-3f03-46de-9781-57580aa96d0a"
